@@ -1,5 +1,6 @@
-package com.mrppak.spring_project01.springboot.web;
+package com.mrppak.spring_project01.springboot.controller;
 
+import com.mrppak.spring_project01.springboot.web.HelloController;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
