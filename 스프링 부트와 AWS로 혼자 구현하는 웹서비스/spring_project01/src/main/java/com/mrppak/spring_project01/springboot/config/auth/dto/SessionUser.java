@@ -2,7 +2,6 @@ package com.mrppak.spring_project01.springboot.config.auth.dto;
 
 import com.mrppak.spring_project01.springboot.domain.user.User;
 import lombok.Getter;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import java.io.Serializable;
 
